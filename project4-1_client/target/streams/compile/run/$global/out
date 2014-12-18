@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mRunning project4client [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/codes/Projects/DOS/Project4/project4-1_client/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/com.typesafe.akka/akka-remote_2.11/jars/akka-remote_2.11-2.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/io.netty/netty/bundles/netty-3.8.0.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-2.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/cise/homes/rk7/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread PROJECT4Client-akka.actor.default-dispatcher-27 to exit[0m
